@@ -1,0 +1,33 @@
+.container {
+  width: 1170px;
+  height: 300px;
+  margin: 10px 10px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+.test-image {
+  height: 100%;
+  width: 500px;
+}
+.test-upper {
+  text-align: center;
+  padding: 40px;
+  font-family: lato, sans-serif;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+.test-name {
+  font-size: 1.3rem;
+}
+.test-role {
+  font-size: 1.3rem;
+  margin-top: 15px;
+  padding-bottom: 30px;
+}
+.test-text {
+  font-size: 1.1rem;
+  text-align: justify;
+}
